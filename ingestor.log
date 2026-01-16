@@ -219,3 +219,17 @@
 2026-01-03T22:17:03 - ERROR - Error al procesar: data_batch_20251222_171537_1.json: Archivo vacio
 2026-01-03T22:17:03 - INFO - Archivo Movido - carpeta bad_data: bad_data\data_batch_20251222_171537_1.json
 2026-01-03T22:17:03 - INFO - Proceso de ingesta finalizado
+2026-01-16T15:30:46 - INFO - Iniciando el proceso
+2026-01-16T15:30:46 - INFO - Procesando: empty.csv
+2026-01-16T15:30:46 - ERROR - Error al procesar: empty.csv: Archivo vacio
+2026-01-16T15:30:46 - INFO - Archivo Movido - carpeta bad_data: bad_data/empty.csv
+2026-01-16T15:30:46 - INFO - Procesando: good.csv
+2026-01-16T15:30:46 - INFO - Archivo Movido - carpeta bronze: bronze/good.csv
+2026-01-16T15:30:46 - INFO - Proceso de ingesta finalizado
+2026-01-16T15:37:50 - INFO - Iniciando el proceso
+2026-01-16T15:37:50 - INFO - Procesando: empty.csv
+2026-01-16T15:37:50 - ERROR - Error al procesar: empty.csv: Archivo vacio
+2026-01-16T15:37:50 - INFO - Archivo Movido - carpeta bad_data: bad_data/empty.csv
+2026-01-16T15:37:50 - INFO - Procesando: good.csv
+2026-01-16T15:37:50 - INFO - Archivo Movido - carpeta bronze: bronze/good.csv
+2026-01-16T15:37:50 - INFO - Proceso de ingesta finalizado
